@@ -1,0 +1,32 @@
+<!-- GBLOXK OS HACKER-FOX AI - Copyright (C) 2026 GBLOXK - GNU AGPL-3.0, see LICENSE -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body { font-family: system-ui, -apple-system, sans-serif; width: 420px; margin: 0; padding: 12px; background: #111; color: #eee; }
+h2 { margin: 0 0 8px; font-size: 16px; }
+button { background: #2d7; color: #000; border: none; padding: 6px 10px; border-radius: 4px; cursor: pointer; margin-right: 6px; }
+button:disabled { opacity: 0.5; cursor: not-allowed; }
+button.secondary { background: #444; color: #eee; }
+#status { font-size: 12px; color: #aaa; margin: 6px 0; }
+.finding { border: 1px solid #333; border-radius: 4px; padding: 6px; margin: 6px 0; font-size: 12px; }
+.finding .type { color: #f84; font-weight: bold; }
+.finding .src { color: #8af; }
+.finding .val { word-break: break-all; color: #ddd; }
+#ai { white-space: pre-wrap; font-size: 12px; background: #222; padding: 8px; border-radius: 4px; margin-top: 8px; max-height: 240px; overflow: auto; }
+</style>
+</head>
+<body>
+<h2>WebAI Secret Scanner</h2>
+<div>
+<button id="scan">Scan Page</button>
+<button id="deep" class="secondary">Deep AI Analysis</button>
+</div>
+<div id="status">Ready.</div>
+<div id="results"></div>
+<div id="ai"></div>
+<script src="popup.js"></script>
+</body>
+</html>

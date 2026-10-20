@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=GBLOXK OS HACKER-FOX AI
+Comment=Firefox-based AI browser with Ollama and pentesting addons
+Exec=/home/dfatz/Downloads/web_ai_pen/AI_Browser_gb/launch.sh %u
+Type=Application
+Terminal=false
+Icon=firefox
+Categories=Network;WebBrowser;Security;

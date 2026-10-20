@@ -1,0 +1,40 @@
+{
+  "manifest_version": 3,
+  "name": "GBLOXK Secret Scanner",
+  "version": "1.1.1",
+  "description": "Scan pages for leaked secrets, tokens, keys, and credentials (on demand).",
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "storage"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_title": "GBLOXK Secret Scanner",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "webai-secret-scanner@local",
+      "strict_min_version": "109.0"
+    }
+  }
+}

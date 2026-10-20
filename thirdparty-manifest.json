@@ -1,0 +1,336 @@
+{
+  "generated_by": "install-thirdparty.sh",
+  "count": 41,
+  "auto": 24,
+  "manual": 17,
+  "extensions": [
+    {
+      "file": "@xmlformatter.xpi",
+      "id": "@xmlformatter",
+      "version": "2.0.1",
+      "name": "XML Viewer Plus",
+      "url": null,
+      "auto": false
+    },
+    {
+      "file": "arcane-scout@mateocallec.com.xpi",
+      "id": "arcane-scout@mateocallec.com",
+      "version": "1.1.0",
+      "name": "Arcane Scout \u2014 API Pentesting Toolkit",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/4831473/arcane_scout-1.1.0.xpi",
+      "auto": true
+    },
+    {
+      "file": "copy_plaintext-1.10-fx.xpi",
+      "id": "copyplaintext@eros.man",
+      "version": "1.10",
+      "name": "__MSG_extensionName__",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/4143512/copy_plaintext-1.15.xpi",
+      "auto": true
+    },
+    {
+      "file": "csrf_spotter-1.0-fx.xpi",
+      "id": null,
+      "version": "1.0",
+      "name": "CSRF spotter",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/2209785/csrf_spotter-1.0.xpi",
+      "auto": true
+    },
+    {
+      "file": "csrfspotter@local1.xpi",
+      "id": "csrfspotter@local1",
+      "version": "1.0",
+      "name": "CSRF spotter",
+      "url": null,
+      "auto": false
+    },
+    {
+      "file": "cyberinject.xpi",
+      "id": "cyberbrothershq@gmail.com",
+      "version": "1.3.1",
+      "name": "CyberInject",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/4861261/cyberinject-1.3.1.xpi",
+      "auto": true
+    },
+    {
+      "file": "disable_webrtc-1.0.21-an+fx.xpi",
+      "id": null,
+      "version": "1.0.21",
+      "name": "Disable WebRTC",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/4272879/disable_webrtc-0.4resigned1.xpi",
+      "auto": true
+    },
+    {
+      "file": "disablewebrtc@local.xpi",
+      "id": "disablewebrtc@local",
+      "version": "1.0.21",
+      "name": "Disable WebRTC",
+      "url": null,
+      "auto": false
+    },
+    {
+      "file": "easy_xss-1.0-fx.xpi",
+      "id": null,
+      "version": "1.0",
+      "name": "Easy XSS",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/4276694/easy_xss-1.1resigned1.xpi",
+      "auto": true
+    },
+    {
+      "file": "easyxss@local.xpi",
+      "id": "easyxss@local",
+      "version": "1.0",
+      "name": "Easy XSS",
+      "url": null,
+      "auto": false
+    },
+    {
+      "file": "firefox-extension@shodan.io.xpi",
+      "id": "firefox-extension@shodan.io",
+      "version": "1.1.1",
+      "name": "Shodan",
+      "url": null,
+      "auto": false
+    },
+    {
+      "file": "foxyproxy@eric.h.jung.xpi",
+      "id": "foxyproxy@eric.h.jung",
+      "version": "9.8",
+      "name": "__MSG_extensionName__",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/5029813/foxyproxy_standard-9.8.xpi",
+      "auto": true
+    },
+    {
+      "file": "hackbar@local.xpi",
+      "id": "hackbar@local",
+      "version": "2.3.1",
+      "name": "HackBar",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/3982563/hackbar-1.0.1.xpi",
+      "auto": true
+    },
+    {
+      "file": "hacktools@local.xpi",
+      "id": "hacktools@local",
+      "version": "0.4.0",
+      "name": "Hack-Tools",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/3901885/hacktools-0.4.0.xpi",
+      "auto": true
+    },
+    {
+      "file": "jsonview@brh.numbera.com.xpi",
+      "id": "jsonview@brh.numbera.com",
+      "version": "3.2.0",
+      "name": "JSONView",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/4494774/jsonview-3.2.0.xpi",
+      "auto": true
+    },
+    {
+      "file": "knoxss_community_edition-0.2.0-fx.xpi",
+      "id": null,
+      "version": "0.2.0",
+      "name": "KNOXSS Community",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/3378216/knoxss_community_edition-0.2.0.xpi",
+      "auto": true
+    },
+    {
+      "file": "knoxsscommunity@local.xpi",
+      "id": "knoxsscommunity@local",
+      "version": "0.2.0",
+      "name": "KNOXSS Community",
+      "url": null,
+      "auto": false
+    },
+    {
+      "file": "msgextensionname@local.xpi",
+      "id": "msgextensionname@local",
+      "version": "2.0.5",
+      "name": "__MSG_extensionName__",
+      "url": null,
+      "auto": false
+    },
+    {
+      "file": "ollama-web-extension.xpi",
+      "id": "ollama-llm-extension@firefox.user",
+      "version": "1.0.3",
+      "name": "Ollama Universal Extension",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/4527623/ollama_web_extension-1.0.3.xpi",
+      "auto": true
+    },
+    {
+      "file": "chatai.xpi",
+      "id": "ollama-multimodal-sidebar@local",
+      "version": "4.1.1",
+      "name": "ChatAI\ud83e\udde0 Local Multimodal AI Assistant Sidebar",
+      "url": null,
+      "auto": false
+    },
+    {
+      "file": "ollama-usage-monitor@had3sz.hozzam.hu.xpi",
+      "id": "ollama-usage-monitor@had3sz.hozzam.hu",
+      "version": "1.3",
+      "name": "__MSG_extName__",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/4999928/ollama_usage_monitor-1.3.xpi",
+      "auto": true
+    },
+    {
+      "file": "owasp-penetration-testing-kit.xpi",
+      "id": "pentestkit@DenisPodgurskii",
+      "version": "9.9.9",
+      "name": "OWASP Penetration Testing Kit",
+      "url": null,
+      "auto": false
+    },
+    {
+      "file": "ollama-client.xpi",
+      "id": "shishirchaurasiya435@gmail.com",
+      "version": "0.14.0",
+      "name": "__MSG_extName__",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/5114424/ollama_client-0.14.0.xpi",
+      "auto": true
+    },
+    {
+      "file": "shodan@local.xpi",
+      "id": "shodan@local",
+      "version": "0.3.2",
+      "name": "Shodan",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/2574975/shodan-2.0.xpi",
+      "auto": true
+    },
+    {
+      "file": "shodanio-0.3.2-an+fx.xpi",
+      "id": null,
+      "version": "0.3.2",
+      "name": "Shodan",
+      "url": null,
+      "auto": false
+    },
+    {
+      "file": "show_my_ip-1.5-fx.xpi",
+      "id": null,
+      "version": "1.5",
+      "name": "show-my-ip",
+      "url": null,
+      "auto": false
+    },
+    {
+      "file": "showmyip@local.xpi",
+      "id": "showmyip@local",
+      "version": "1.5",
+      "name": "show-my-ip",
+      "url": null,
+      "auto": false
+    },
+    {
+      "file": "ublock-origin.xpi",
+      "id": "uBlock0@raymondhill.net",
+      "version": "1.75.0",
+      "name": "uBlock Origin",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/5034826/ublock_origin-1.75.0.xpi",
+      "auto": true
+    },
+    {
+      "file": "user_agent_switcher_and_manager-0.3.5-an+fx.xpi",
+      "id": null,
+      "version": "0.3.5",
+      "name": "User-Agent Switcher and Manager",
+      "url": null,
+      "auto": false
+    },
+    {
+      "file": "useragentswitcherand@local.xpi",
+      "id": "useragentswitcherand@local",
+      "version": "0.3.5",
+      "name": "User-Agent Switcher and Manager",
+      "url": null,
+      "auto": false
+    },
+    {
+      "file": "wappalyzer@crunchlabz.com.xpi",
+      "id": "wappalyzer@crunchlabz.com",
+      "version": "6.12.7",
+      "name": "Wappalyzer - Technology profiler",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/5067215/wappalyzer-6.12.7.xpi",
+      "auto": true
+    },
+    {
+      "file": "web_developer-2.0.5-an+fx.xpi",
+      "id": null,
+      "version": "2.0.5",
+      "name": "__MSG_extensionName__",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/4306323/web_developer-3.0.1.xpi",
+      "auto": true
+    },
+    {
+      "file": "webbrain@esokullu.com.xpi",
+      "id": "webbrain@esokullu.com",
+      "version": "41.0.1",
+      "name": "WebBrain",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/5141071/webbrain-42.1.2.xpi",
+      "auto": true
+    },
+    {
+      "file": "resurrect_pages-7-an+fx.xpi",
+      "id": "{0c8fbd76-bdeb-4c52-9b24-d587ce7b9dc3}",
+      "version": "7",
+      "name": "Resurrect Pages",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/5141794/resurrect_pages-10.xpi",
+      "auto": true
+    },
+    {
+      "file": "flagfox-6.1.25-fx.xpi",
+      "id": "{1018e4d6-728f-4b20-ad56-37578a4de76b}",
+      "version": "6.1.25",
+      "name": "Flagfox",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/5067561/flagfox-6.2.6.xpi",
+      "auto": true
+    },
+    {
+      "file": "google_dork_builder-0.6-fx.xpi",
+      "id": "{675d13f1-7c9e-40a7-bbd3-2c4f41723f70}",
+      "version": "0.6",
+      "name": "Google Dork Builder",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/3864393/google_dork_builder-0.9.xpi",
+      "auto": true
+    },
+    {
+      "file": "{9ffddb40-a792-42d1-8a86-167034e98a53}.xpi",
+      "id": "{9ffddb40-a792-42d1-8a86-167034e98a53}",
+      "version": "0.2.0",
+      "name": "KNOXSS Community",
+      "url": null,
+      "auto": false
+    },
+    {
+      "file": "{a6c4a591-f1b2-4f03-b3ff-767e5bedf4e7}.xpi",
+      "id": "{a6c4a591-f1b2-4f03-b3ff-767e5bedf4e7}",
+      "version": "0.7.2",
+      "name": "User-Agent Switcher and Manager",
+      "url": null,
+      "auto": false
+    },
+    {
+      "file": "{c45c406e-ab73-11d8-be73-000a95be3b12}.xpi",
+      "id": "{c45c406e-ab73-11d8-be73-000a95be3b12}",
+      "version": "3.0.1",
+      "name": "__MSG_extensionName__",
+      "url": null,
+      "auto": false
+    },
+    {
+      "file": "secexplorer-pro.xpi",
+      "id": "{de142fcc-074b-4d12-8d10-313c2f6e4f33}",
+      "version": "1.5",
+      "name": "SecExplorer Pro",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/4551995/secexplorer_pro-1.5.xpi",
+      "auto": true
+    },
+    {
+      "file": "http_header_live-0.6.5.2-fx.xpi",
+      "id": "{ed102056-8b4f-43a9-99cd-6d1b25abe87e}",
+      "version": "0.6.5.2",
+      "name": "__MSG_extensionName__",
+      "url": "https://addons.mozilla.org/firefox/downloads/file/3384326/http_header_live-0.6.5.2.xpi",
+      "auto": true
+    }
+  ]
+}

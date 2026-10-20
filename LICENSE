@@ -32,9 +32,9 @@ and/or modify the software.
   A secondary benefit of defending all users' freedom is that
 improvements made in alternate versions of the program, if they
 receive widespread use, become available for other developers to
-incorporate.  Many developers of free software are heartened and
-encouraged by the resulting cooperation.  However, in the case of
-software used on network servers, this result may fail to come about.
+incorporate.  Many developers of heartened and encouraged by
+the resulting cooperation.  However, in the case of software used on
+network servers, this result may fail to come about.
 The GNU General Public License permits making a modified version and
 letting the public access it on a server without ever releasing its
 source code to the public.
@@ -43,8 +43,8 @@ source code to the public.
 ensure that, in such cases, the modified source code becomes available
 to the community.  It requires the operator of a network server to
 provide the source code of the modified version running there to the
-users of that server.  Therefore, public use of a modified version, on
-a publicly accessible server, gives the public access to the source
+users of that server.  Therefore, public use of a modified version,
+on a publicly accessible server, gives the public access to the source
 code of the modified version.
 
   An older license, called the Affero General Public License and
@@ -177,8 +177,8 @@ circumvention of technological measures to the extent such circumvention
 is effected by exercising rights under this License with respect to
 the covered work, and you disclaim any intention to limit operation or
 modification of the work as a means of enforcing, against the work's
-users, your or third parties' legal rights to forbid circumvention of
-technological measures.
+users, your or third parties' legal rights to forbid circumvention
+of technological measures.
 
   4. Conveying Verbatim Copies.
 
@@ -221,7 +221,7 @@ terms of section 4, provided that you also meet all of these conditions:
     work need not make them do so.
 
   A compilation of a covered work with other separate and independent
-works, which are not by their nature extensions of the covered work,
+works, which are not by nature extensions of the covered work,
 and which are not combined with it such as to form a larger program,
 in or on a volume of a storage or distribution medium, is called an
 "aggregate" if the compilation and its resulting copyright are not
@@ -290,10 +290,10 @@ doubtful cases shall be resolved in favor of coverage.  For a particular
 product received by a particular user, "normally used" refers to a
 typical or common use of that class of product, regardless of the status
 of the particular user or of the way in which the particular user
-actually uses, or expects or is expected to use, the product.  A product
-is a consumer product regardless of whether the product has substantial
-commercial, industrial or non-consumer uses, unless such uses represent
-the only significant mode of use of the product.
+actually uses or expects to use the product.  A product is a consumer
+product regardless of whether the product has substantial commercial,
+industrial or non-consumer uses, unless such uses represent the only
+significant mode of use of the product.
 
   "Installation Information" for a User Product means any methods,
 procedures, authorization keys, or other information required to install
@@ -530,8 +530,8 @@ otherwise be available to you under applicable patent law.
   If conditions are imposed on you (whether by court order, agreement or
 otherwise) that contradict the conditions of this License, they do not
 excuse you from the conditions of this License.  If you cannot convey a
-covered work so as to satisfy simultaneously your obligations under this
-License and any other pertinent obligations, then as a consequence you may
+covered work so as to satisfy simultaneously your obligations under
+this License and any other pertinent obligations, then as a consequence you may
 not convey it at all.  For example, if you agree to terms that obligate you
 to collect a royalty for further conveying from those to whom you convey
 the Program, the only way you could satisfy both those terms and this
@@ -612,8 +612,8 @@ SUCH DAMAGES.
   If the disclaimer of warranty and limitation of liability provided
 above cannot be given local legal effect according to their terms,
 reviewing courts shall apply local law that most closely approximates
-an absolute waiver of all civil liability in connection with the
-Program, unless a warranty or assumption of liability accompanies a
+an absolute waiver of all civil liability in connection with
+the Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
 
                      END OF TERMS AND CONDITIONS
@@ -633,8 +633,8 @@ the "copyright" line and a pointer to where the full notice is found.
     Copyright (C) <year>  <name of author>
 
     This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU Affero General Public License as published
-    by the Free Software Foundation, either version 3 of the License, or
+    it under the terms of the GNU Affero General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
     This program is distributed in the hope that it will be useful,

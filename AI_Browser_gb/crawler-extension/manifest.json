@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "GBLOXK Crawler & Scraper",
+  "version": "1.0.1",
+  "description": "Crawl a site and scrape user-defined selectors, regex, or keywords.",
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "storage"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_title": "GBLOXK Crawler",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "webai-crawler@local",
+      "strict_min_version": "109.0"
+    }
+  }
+}

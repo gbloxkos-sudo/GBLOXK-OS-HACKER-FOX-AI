@@ -1,0 +1,42 @@
+<!-- GBLOXK OS HACKER-FOX AI - Copyright (C) 2026 GBLOXK - GNU AGPL-3.0, see LICENSE -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body { font-family: system-ui, -apple-system, sans-serif; width: 480px; margin: 0; padding: 12px; background: #111; color: #eee; }
+h2 { margin: 0 0 8px; font-size: 16px; }
+label { display: block; font-size: 12px; margin: 6px 0 2px; color: #aaa; }
+input, textarea { width: 100%; box-sizing: border-box; background: #222; color: #eee; border: 1px solid #444; border-radius: 4px; padding: 6px; font-size: 12px; }
+button { background: #2d7; color: #000; border: none; padding: 6px 10px; border-radius: 4px; cursor: pointer; margin-right: 6px; margin-top: 8px; }
+button:disabled { opacity: 0.5; cursor: not-allowed; }
+button.secondary { background: #444; color: #eee; }
+#status { font-size: 12px; color: #aaa; margin: 6px 0; }
+pre { white-space: pre-wrap; word-break: break-all; background: #222; padding: 8px; border-radius: 4px; font-size: 11px; max-height: 260px; overflow: auto; }
+</style>
+</head>
+<body>
+<h2>WebAI Crawler &amp; Scraper</h2>
+<label>Start URL</label>
+<input id="startUrl" placeholder="https://example.com">
+<label>CSS Selector (optional)</label>
+<input id="selector" placeholder="a, .price, #content">
+<label>Regex (optional)</label>
+<input id="regex" placeholder="\b[A-Z0-9._%+-]+@...\b">
+<label>Keywords (comma-separated)</label>
+<input id="keywords" placeholder="price, email, phone">
+<label>Max Pages</label>
+<input id="maxPages" type="number" value="10" min="1" max="100">
+<label>Max Depth</label>
+<input id="maxDepth" type="number" value="2" min="1" max="5">
+<div>
+<button id="crawl">Start Crawl</button>
+<button id="ai" class="secondary">Deep AI Analysis</button>
+<button id="export" class="secondary">Export JSON</button>
+</div>
+<div id="status">Ready.</div>
+<pre id="out"></pre>
+<script src="popup.js"></script>
+</body>
+</html>
